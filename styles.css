@@ -1,0 +1,12 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+.banner {
+    background-image: url(/portfolio/images/Slider-kelly-sikkema-Hl3LUdyKRic-unsplash.jpg);
+    padding: 250px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.skill-padding {
+    padding: 50px 0;
+}
